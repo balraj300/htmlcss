@@ -1,0 +1,17 @@
+.container{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, sans-serif;
+
+}
+.fristbox{
+
+    position:relative;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
